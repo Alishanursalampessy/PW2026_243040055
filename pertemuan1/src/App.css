@@ -1,0 +1,4 @@
+/* src/App.css - gaya khusus komponen App */
+button:hover {
+  opacity: 0.88;
+}

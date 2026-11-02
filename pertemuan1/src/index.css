@@ -1,0 +1,7 @@
+/* src/index.css - gaya global (menggantikan gaya bawaan template Vite) */
+body {
+  margin: 0;
+  background-color: #f1f3f6;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
